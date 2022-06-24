@@ -6,7 +6,7 @@ using namespace std;
 #define FPS 120
 #define TO_RADIANS 3.14/180.0
 
-//  Anggota Kelompok X
+//  Anggota Kelompok 9
 //  Chresto Tumbilung (672020229)
 //  Marcelinus Yusgon M. M. (672020328)
 //  Jeremy Victorinda M. T. (672017228)
