@@ -420,8 +420,8 @@ int main(int argc, char** argv) {
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
     glutInitWindowPosition(0, 0);
-    glutInitWindowSize(1280, 700);
-    glutCreateWindow("Materi 1 Grafkom G-H");
+    glutInitWindowSize(1280, 720);
+    glutCreateWindow("672020229");
     init();
     glutDisplayFunc(objek);
     //glutFullScreen();
